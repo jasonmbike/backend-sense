@@ -1,0 +1,3 @@
+.dropdown-menu.show {
+    inset: -44px auto auto -81px !important;/* Mostrar cuando tiene la clase "show" */
+}
